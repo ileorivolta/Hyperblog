@@ -1,5 +1,7 @@
 Esta es la historia de Ivan Rivolta. 
 
-Ivan Rivolta tiene 26, es ingeniero de sistemas le gusta el futbol y los videojuegos. 
+Ivan Rivolta tiene 26, es ingeniero de sistemas le gusta el futbol y los videojuegos.
+
+master 1
 
 En el siguiente capitulo hablaremos de sus fracasos amorosos
